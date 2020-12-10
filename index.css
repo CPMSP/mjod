@@ -1,5 +1,21 @@
-h1 {
-	color: red;
+html {
 	display: flex;
+	max-width: 1000px;
+	margin: auto;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
 	justify-content: center;
+}
+
+h1 {
+	display: inherit;
+	justify-content: center;
+	color: red;
+}
+
+p {
+	display: inherit;
 }
