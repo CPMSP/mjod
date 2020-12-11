@@ -5,17 +5,17 @@ html {
 }
 
 body {
-	display: inherit;
+	display: flex;
 	flex-direction: column;
 	justify-content: center;
 }
 
 h1 {
-	display: inherit;
+	display: flex;
 	justify-content: center;
 	color: red;
 }
 
 p {
-	display: inherit;
+	display: flex;
 }

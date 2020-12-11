@@ -9,11 +9,10 @@
 // adds many styles
 // div.style.cssText = 'color: blue, background: gray';
 
-// basically the same
+// basically the same as the two above
 // div.setAttribute('style', 'color: blue; background: gray');
 
-// if id exists update it to 'theDiv' else create an id
-// with value "theDiv"
+// if id exists update it to 'theDiv' else create an id with value "theDiv"
 // div.setAttribute('id', 'theDiv');
 
 // returns value of specified attribute ['theDiv']
