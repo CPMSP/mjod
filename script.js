@@ -43,7 +43,7 @@ const container = document.querySelector('#container');
 const content = document.createElement('div');
 
 // content.style.border = '1px solid black';
-content.style.cssText = 'padding: 10px; border: 1px solid black';
+content.style.cssText = 'padding: 10px; border: 10px outset black';
 
 content.classList.add('content');
 
